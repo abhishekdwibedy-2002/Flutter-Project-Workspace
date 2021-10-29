@@ -54,9 +54,6 @@
 
 
 ##  :label:  Rules Regarding Submission of PR :bookmark:
-➡️ Participant can contribute anything he wishes for.
-
-➡️ Make sure to pull request in the respective folder. 
 
 ➡️ Your <b>PR</b> must be valid.
 
@@ -74,7 +71,15 @@
 | *MobileDev* |
 | --- |  
   
- 
+[![GitHub forks](https://img.shields.io/github/forks/abhishekdwibedy-2002/Flutter-Workspace?style=social)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/abhishekdwibedy-2002/Flutter-Workspace?style=social)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/stargazers)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/abhishekdwibedy-2002/Flutter-Workspace.svg)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/pulls/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/abhishekdwibedy-2002/Flutter-Workspace.svg)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub Contributors](https://img.shields.io/github/contributors/abhishekdwibedy-2002/Flutter-Workspace.svg)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/abhishekdwibedy-2002/Flutter-Workspace/Contribution.md)
+
+  
+  
 ## :label: Getting Started
 
 * First, fork the repository (Click the <b><b>Fork</b></b> button in the top right corner of the page).
@@ -118,6 +123,6 @@ git push origin branch_name
 
  ## 	:game_die: Shoutout to all the contributors ❤️
 
-<a href="">
-  <img src="" />
+<a href="https://github.com/abhishekdwibedy-2002/Flutter-Workspace/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhishekdwibedy-2002/Flutter-Workspace" />
 </a>
