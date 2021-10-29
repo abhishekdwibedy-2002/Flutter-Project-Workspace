@@ -86,7 +86,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 
 * Add upstream URL 
 ```markdown
-git remote add upstream https://github.com/hash-define-organization/Hacktober-Fest-2021.git
+git remote add upstream https://github.com/abhishekdwibedy-2002/Flutter-Workspace.git
 ```
 
 * Create a new branch
