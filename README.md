@@ -123,6 +123,6 @@ git push origin branch_name
 
  ## 	:game_die: Shoutout to all the contributors ❤️
 
-<a href="https://github.com/abhishekdwibedy-2002/Flutter-Workspace/graphs/contributors">
+<a href="">
   <img src="https://contrib.rocks/image?repo=abhishekdwibedy-2002/Flutter-Workspace" />
 </a>
